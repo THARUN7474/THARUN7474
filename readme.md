@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my own projects](https://github.com/THARUN7474)
 
-- 🌱 I’m currently learning **NextJS, GEN AI, ML**
+- 🌱 I’m currently learning **Adv FULL STACK & WEB3, GEN AI, ML**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/bandatharun74](https://linktr.ee/bandatharun74)
 
