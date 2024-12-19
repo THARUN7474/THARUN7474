@@ -18,6 +18,10 @@
 - 📄 Know about my experiences [https://linktr.ee/bandatharun74](https://linktr.ee/bandatharun74)
 
 - ⚡ Fun fact **if you see how I plan, if everything goes as I planned it will be 🔥,trying my best**
+- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rinkitadhana/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
